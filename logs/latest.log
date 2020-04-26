@@ -1,0 +1,1536 @@
+[15:14:29] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:14:29] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:14:29] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:14:29] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:14:31] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[15:14:31] [Server thread/INFO]: Loading properties
+[15:14:31] [Server thread/INFO]: Default game type: SURVIVAL
+[15:14:31] [Server thread/INFO]: Generating keypair
+[15:14:32] [Server thread/INFO]: Starting Minecraft server on 192.168.2.31:25565
+[15:14:32] [Server thread/INFO]: Using epoll channel type
+[15:14:32] [Server thread/INFO]: Preparing level "NightTimeRamen"
+[15:14:33] [Server thread/INFO]: Reloading ResourceManager: Default
+[15:14:42] [Server thread/INFO]: Loaded 6 recipes
+[15:14:42] [Server thread/INFO]: Loaded 825 advancements
+[15:14:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:14:43] [Server thread/INFO]: Preparing spawn area: 0%
+[15:14:43] [Server thread/INFO]: Preparing spawn area: 0%
+[15:14:43] [Server thread/INFO]: Preparing spawn area: 0%
+[15:14:43] [Server thread/INFO]: Preparing spawn area: 0%
+[15:14:44] [Server thread/INFO]: Time elapsed: 1742 ms
+[15:14:44] [Server thread/INFO]: Done (11.302s)! For help, type "help"
+[15:26:59] [User Authenticator #1/INFO]: UUID of player ssiri is 77687848-61de-4d85-b206-788c010ac5f5
+[15:26:59] [Server thread/INFO]: ssiri[/74.220.188.75:52225] logged in with entity id 461 at (119.58280641834196, 95.0, 61.172146668119666)
+[15:26:59] [Server thread/INFO]: ssiri joined the game
+[15:31:12] [Server thread/INFO]: ssiri has completed the challenge [Return to Sender]
+[15:32:16] [User Authenticator #2/INFO]: UUID of player Khwalin is 48186233-910e-4621-96d9-e40b4ba73289
+[15:32:16] [Server thread/INFO]: Khwalin[/45.74.77.216:51689] logged in with entity id 910 at (119.12506569058765, 95.0, 85.81536686749757)
+[15:32:16] [Server thread/INFO]: Khwalin joined the game
+[15:37:44] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=108, y=75, z=138} fk{x=181, y=74, z=159}
+[15:46:38] [User Authenticator #3/INFO]: UUID of player ValcoNN41 is 60bce50b-1456-4239-9041-e371551b6221
+[15:46:38] [Server thread/INFO]: ValcoNN41[/99.244.251.100:62774] logged in with entity id 2734 at (194.00909002099263, 96.0, 321.8623038355426)
+[15:46:38] [Server thread/INFO]: ValcoNN41 joined the game
+[15:46:47] [Server thread/INFO]: <ValcoNN41> yeah eh
+[15:46:48] [Server thread/INFO]: <Khwalin> yo david
+[15:46:52] [Server thread/INFO]: <ValcoNN41> yeah
+[15:47:04] [Server thread/INFO]: <Khwalin> do you know the cord to the nether portal?
+[15:47:14] [Server thread/INFO]: <ValcoNN41> no
+[15:47:23] [Server thread/INFO]: <Khwalin> check ahlie
+[15:47:27] [Server thread/INFO]: <ValcoNN41> ???????????
+[15:47:31] [Server thread/INFO]: <ValcoNN41> i said id ont know
+[15:47:36] [Server thread/INFO]: <ValcoNN41> how the fuck am i supposed to check
+[15:47:40] [Server thread/INFO]: <Khwalin> go in
+[15:47:48] [Server thread/INFO]: <Khwalin> and tell us the coordinate
+[15:48:03] [Server thread/INFO]: <ValcoNN41> nah do that sht urself
+[15:48:09] [Server thread/INFO]: <Khwalin> NIGGA WE ARE STUCK
+[15:48:19] [Server thread/INFO]: <ValcoNN41> stuck where
+[15:48:26] [Server thread/INFO]: <Khwalin> inside the nether lmao
+[15:48:32] [Server thread/INFO]: <ValcoNN41> okay and
+[15:48:39] [Server thread/INFO]: <Khwalin> we cant find our way back
+[15:48:46] [Server thread/INFO]: <ValcoNN41> how is that my problem
+[15:49:28] [Server thread/INFO]: <ValcoNN41> holy fuck dude u and vivek always make me do shit and i cant even play the fucking game anymore
+[15:49:50] [Server thread/INFO]: <Khwalin> ?? nigga the portal is 1 min away from you
+[15:49:59] [Server thread/INFO]: <ValcoNN41> idk where the portal is
+[15:50:10] [Server thread/INFO]: <Khwalin> there is one outside our house
+[15:50:22] [Server thread/INFO]: <Khwalin> have you never been in the nether yet?
+[15:50:39] [Server thread/INFO]: <ValcoNN41> once on this server
+[15:51:03] [Server thread/INFO]: <ValcoNN41> 29 25
+[15:51:08] [Server thread/INFO]: <Khwalin> aight thanks
+[15:51:24] [Server thread/INFO]: <ValcoNN41> bro why'd i teleport to some next location tf
+[15:51:37] [Server thread/INFO]: <Khwalin> i thought varun fixed it
+[15:51:53] [Server thread/INFO]: <ValcoNN41> ight i gtg ill hop later
+[15:51:58] [Server thread/INFO]: <Khwalin> aight
+[15:52:11] [Server thread/INFO]: <ValcoNN41> nigga it should have been obvious the coords would be close to 0 0
+[15:52:32] [Server thread/INFO]: <Khwalin> how?
+[15:52:50] [Server thread/INFO]: <Khwalin> is that where you always spawn?
+[15:52:56] [Server thread/INFO]: <ValcoNN41> its the most obvious
+[15:53:04] [Server thread/INFO]: <ValcoNN41> especially if ur lost juts go to 0 0
+[15:53:21] [Server thread/INFO]: <Khwalin> oh bruh
+[15:53:25] [Server thread/INFO]: ValcoNN41 lost connection: Disconnected
+[15:53:25] [Server thread/INFO]: ValcoNN41 left the game
+[15:53:54] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=212, y=72, z=282} fk{x=212, y=73, z=282}
+[15:53:54] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=212, y=72, z=282} fk{x=212, y=73, z=282}
+[16:05:32] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/8230, l='NightTimeRamen', x=-47.33, y=67.00, z=240.31]
+[16:05:32] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/8230, l='NightTimeRamen', x=-47.33, y=67.00, z=240.31]
+[16:09:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:55] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:55] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:55] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:55] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:55] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:55] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:55] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:55] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:55] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:55] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:55] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:55] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:55] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:55] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:55] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:55] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:55] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:55] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:55] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:55] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:56] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:56] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:56] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:56] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:56] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:56] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:56] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:56] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:56] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:56] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:09:56] [Server thread/INFO]: ssiri lost connection: Timed out
+[16:09:56] [Server thread/INFO]: ssiri left the game
+[16:10:04] [User Authenticator #4/INFO]: UUID of player ssiri is 77687848-61de-4d85-b206-788c010ac5f5
+[16:10:04] [Server thread/INFO]: ssiri[/74.220.188.75:52292] logged in with entity id 9730 at (244.83221819422954, 65.24918707874468, 482.3114086790209)
+[16:10:04] [Server thread/INFO]: ssiri joined the game
+[16:10:10] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:10] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:10] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:10] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:10] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:10] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:10] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:10] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:10] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:10] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:10] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:10] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:10] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:10] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:10] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:10] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:10] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:10] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:10] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:11] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:11] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:11] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:11] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:11] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:11] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:11] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:11] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:11] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:11] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:11] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:11] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:11] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:11] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:11] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:11] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:11] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:11] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:11] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:11] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:12] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:12] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:12] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:12] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:12] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:12] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:12] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:12] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:12] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:12] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:12] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:12] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:12] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:12] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:12] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:12] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:12] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:12] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:12] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:12] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:13] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:13] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:13] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:13] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:13] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:13] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:13] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:13] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:13] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:13] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:13] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:13] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:13] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:13] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:13] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:13] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:13] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:13] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:13] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:13] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:14] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:14] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:14] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:14] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:14] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:14] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:14] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:14] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:14] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:14] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:14] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:14] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:14] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:14] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:14] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:14] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:14] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:14] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:14] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:14] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:15] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:15] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:15] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:15] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:15] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:15] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:15] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:15] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:15] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:15] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:15] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:15] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:15] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:15] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:15] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:15] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:15] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:15] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:15] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:15] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:16] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:16] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:16] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:16] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:16] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:16] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:16] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:16] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:16] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:16] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:16] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:16] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:16] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:16] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:16] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:16] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:16] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:16] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:16] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:16] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:17] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:17] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:17] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:17] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:17] [Server thread/INFO]: ssiri lost connection: Disconnected
+[16:10:17] [Server thread/INFO]: ssiri left the game
+[16:10:26] [User Authenticator #5/INFO]: UUID of player ssiri is 77687848-61de-4d85-b206-788c010ac5f5
+[16:10:26] [Server thread/INFO]: ssiri[/74.220.188.75:52316] logged in with entity id 9829 at (244.83221819422954, 65.24918707874468, 482.3114086790209)
+[16:10:26] [Server thread/INFO]: ssiri joined the game
+[16:10:31] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:31] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:31] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:31] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:31] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:31] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:31] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:31] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:31] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:31] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:31] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:31] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:31] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:31] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:31] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:31] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:31] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:31] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:31] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:31] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:32] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:32] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:32] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:32] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:32] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:32] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:32] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:32] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:32] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:32] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:32] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:32] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:32] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:32] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:32] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:32] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:32] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:32] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:32] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:32] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:33] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:33] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:33] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:33] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:33] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:33] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:33] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:33] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:33] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:33] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:33] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:33] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:33] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:33] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:33] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:33] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:33] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:33] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:33] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:33] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:34] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:34] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:34] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:34] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:34] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:34] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:34] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:34] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:34] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:34] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:34] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:34] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:34] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:34] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:34] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:34] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:34] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:34] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:34] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:34] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:35] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:35] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:35] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:35] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:35] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:35] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:35] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:35] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:35] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:35] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:35] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:35] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:35] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:35] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:35] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:35] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:35] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:35] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:35] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:35] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:36] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:36] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:36] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:36] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:36] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:36] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:36] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:36] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:36] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:36] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:36] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:36] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:36] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:36] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:36] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:36] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:36] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:36] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:36] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:36] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:37] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:38] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:39] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:40] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:41] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:42] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:43] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:44] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:45] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:46] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:47] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:48] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:49] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:50] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:51] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:52] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:53] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:54] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:55] [Server thread/WARN]: ssiri was kicked for floating too long!
+[16:10:55] [Server thread/INFO]: ssiri lost connection: Disconnected
+[16:10:55] [Server thread/INFO]: ssiri left the game
+[16:11:35] [Server thread/INFO]: Khwalin lost connection: Disconnected
+[16:11:35] [Server thread/INFO]: Khwalin left the game
+[16:11:39] [User Authenticator #6/INFO]: UUID of player ssiri is 77687848-61de-4d85-b206-788c010ac5f5
+[16:11:39] [Server thread/INFO]: ssiri[/74.220.188.75:52391] logged in with entity id 10154 at (244.83221819422954, 65.24918707874468, 482.3114086790209)
+[16:11:39] [Server thread/INFO]: ssiri joined the game
+[16:12:29] [User Authenticator #7/INFO]: UUID of player Khwalin is 48186233-910e-4621-96d9-e40b4ba73289
+[16:12:29] [Server thread/INFO]: Khwalin[/45.74.77.216:52361] logged in with entity id 10362 at (244.30000001192093, 65.0, 481.91592224550004)
+[16:12:29] [Server thread/INFO]: Khwalin joined the game
+[16:12:37] [Server thread/INFO]: ssiri lost connection: Disconnected
+[16:12:37] [Server thread/INFO]: ssiri left the game
+[16:12:45] [User Authenticator #8/INFO]: UUID of player ssiri is 77687848-61de-4d85-b206-788c010ac5f5
+[16:12:45] [Server thread/INFO]: ssiri[/74.220.188.75:52408] logged in with entity id 10421 at (244.83221819422954, 65.24918707874468, 482.3114086790209)
+[16:12:45] [Server thread/INFO]: ssiri joined the game
+[16:12:47] [Server thread/INFO]: Khwalin lost connection: Disconnected
+[16:12:47] [Server thread/INFO]: Khwalin left the game
+[16:13:17] [Server thread/INFO]: ssiri lost connection: Timed out
+[16:13:17] [Server thread/INFO]: ssiri left the game
+[16:14:19] [User Authenticator #9/INFO]: UUID of player Khwalin is 48186233-910e-4621-96d9-e40b4ba73289
+[16:14:19] [Server thread/INFO]: Khwalin[/45.74.77.216:52393] logged in with entity id 10579 at (244.30000001192093, 65.0, 481.30000001192093)
+[16:14:19] [Server thread/INFO]: Khwalin joined the game
+[16:14:25] [User Authenticator #10/INFO]: UUID of player ssiri is 77687848-61de-4d85-b206-788c010ac5f5
+[16:14:25] [Server thread/INFO]: ssiri[/74.220.188.75:52479] logged in with entity id 10616 at (244.83221819422954, 65.24918707874468, 482.3114086790209)
+[16:14:25] [Server thread/INFO]: ssiri joined the game
+[16:14:56] [Server thread/INFO]: ssiri lost connection: Timed out
+[16:14:56] [Server thread/INFO]: ssiri left the game
+[16:15:04] [User Authenticator #11/INFO]: UUID of player ssiri is 77687848-61de-4d85-b206-788c010ac5f5
+[16:15:04] [Server thread/INFO]: ssiri[/74.220.188.75:52488] logged in with entity id 10794 at (244.83221819422954, 65.24918707874468, 482.3114086790209)
+[16:15:04] [Server thread/INFO]: ssiri joined the game
+[16:15:35] [Server thread/INFO]: ssiri lost connection: Timed out
+[16:15:35] [Server thread/INFO]: ssiri left the game
+[16:16:04] [Server thread/INFO]: Khwalin lost connection: Disconnected
+[16:16:04] [Server thread/INFO]: Khwalin left the game
+[16:16:07] [User Authenticator #12/INFO]: UUID of player ssiri is 77687848-61de-4d85-b206-788c010ac5f5
+[16:16:07] [Server thread/INFO]: ssiri[/74.220.188.75:52494] logged in with entity id 11032 at (244.83221819422954, 65.24918707874468, 482.3114086790209)
+[16:16:07] [Server thread/INFO]: ssiri joined the game
+[16:16:25] [User Authenticator #13/INFO]: UUID of player Khwalin is 48186233-910e-4621-96d9-e40b4ba73289
+[16:16:25] [Server thread/INFO]: Khwalin[/45.74.77.216:52428] logged in with entity id 11134 at (262.8514324928863, 65.0, 503.2590449289319)
+[16:16:25] [Server thread/INFO]: Khwalin joined the game
+[16:17:07] [Server thread/INFO]: ssiri lost connection: Timed out
+[16:17:07] [Server thread/INFO]: ssiri left the game
+[16:17:23] [Server thread/INFO]: Khwalin lost connection: Disconnected
+[16:17:23] [Server thread/INFO]: Khwalin left the game
+[16:17:30] [User Authenticator #14/INFO]: UUID of player ssiri is 77687848-61de-4d85-b206-788c010ac5f5
+[16:17:30] [Server thread/INFO]: ssiri[/74.220.188.75:52514] logged in with entity id 11380 at (246.77764690796823, 68.0, 481.0560256975256)
+[16:17:30] [Server thread/INFO]: ssiri joined the game
+[16:18:01] [Server thread/INFO]: ssiri lost connection: Timed out
+[16:18:01] [Server thread/INFO]: ssiri left the game
+[16:18:44] [User Authenticator #15/INFO]: UUID of player Khwalin is 48186233-910e-4621-96d9-e40b4ba73289
+[16:18:44] [Server thread/INFO]: Khwalin[/45.74.77.216:52502] logged in with entity id 11550 at (275.96238805539303, 64.5625, 510.31763529870386)
+[16:18:44] [Server thread/INFO]: Khwalin joined the game
+[16:18:56] [Server thread/INFO]: Khwalin lost connection: Disconnected
+[16:18:56] [Server thread/INFO]: Khwalin left the game
+[16:19:12] [User Authenticator #16/INFO]: UUID of player ssiri is 77687848-61de-4d85-b206-788c010ac5f5
+[16:19:12] [Server thread/INFO]: ssiri[/74.220.188.75:52589] logged in with entity id 11684 at (246.77764690796823, 68.0, 481.0560256975256)
+[16:19:12] [Server thread/INFO]: ssiri joined the game
+[16:20:12] [Server thread/INFO]: ssiri lost connection: Disconnected
+[16:20:12] [Server thread/INFO]: ssiri left the game
+[16:20:37] [User Authenticator #17/INFO]: UUID of player Khwalin is 48186233-910e-4621-96d9-e40b4ba73289
+[16:20:37] [Server thread/INFO]: Khwalin[/45.74.77.216:52698] logged in with entity id 11987 at (268.59185953518534, 63.0, 481.04887892253356)
+[16:20:37] [Server thread/INFO]: Khwalin joined the game
+[16:45:37] [User Authenticator #18/INFO]: UUID of player ValcoNN41 is 60bce50b-1456-4239-9041-e371551b6221
+[16:45:37] [Server thread/INFO]: ValcoNN41[/99.244.251.100:63479] logged in with entity id 18241 at (214.11173977430906, 86.0, 324.45955755375127)
+[16:45:37] [Server thread/INFO]: ValcoNN41 joined the game
+[16:51:07] [User Authenticator #19/INFO]: UUID of player ssiri is 77687848-61de-4d85-b206-788c010ac5f5
+[16:51:07] [Server thread/INFO]: ssiri[/74.220.188.75:65278] logged in with entity id 20518 at (244.2410486802174, 67.0, 482.9390287067529)
+[16:51:07] [Server thread/INFO]: ssiri joined the game
+[16:51:17] [Server thread/INFO]: <Khwalin> yo david
+[16:51:20] [Server thread/INFO]: <ValcoNN41> te
+[16:51:21] [Server thread/INFO]: <ValcoNN41> ye
+[16:51:24] [Server thread/INFO]: <Khwalin> i made a sick exp spawner
+[16:51:32] [Server thread/INFO]: <ValcoNN41> ncuie
+[16:51:32] [Server thread/INFO]: <ValcoNN41> nice
+[16:51:35] [Server thread/INFO]: <Khwalin> you should try it out if you need bones and arrow
+[16:51:37] [Server thread/INFO]: ssiri lost connection: Disconnected
+[16:51:37] [Server thread/INFO]: ssiri left the game
+[16:51:41] [Server thread/INFO]: <ValcoNN41> i have infinity
+[16:55:22] [Server thread/INFO]: <ValcoNN41> come to my house nigg
+[16:55:30] [Server thread/INFO]: <Khwalin> u got the piston rdy?
+[16:55:33] [Server thread/INFO]: <ValcoNN41> no
+[16:55:35] [Server thread/INFO]: <ValcoNN41> its something else
+[16:55:41] [Server thread/INFO]: <Khwalin> i have 49 levels rn
+[16:55:53] [Server thread/INFO]: <ValcoNN41> lol i had like 65 at one point
+[16:56:34] [Server thread/INFO]: <Khwalin> wtf
+[16:56:43] [Server thread/INFO]: <Khwalin> what kind of creeper did this
+[16:56:59] [Server thread/INFO]: <Khwalin> what this for?
+[16:57:01] [Server thread/INFO]: <ValcoNN41> gues what im gonna build nig
+[16:57:07] [Server thread/INFO]: <ValcoNN41> ill give u a hint
+[16:57:21] [Server thread/INFO]: <ValcoNN41> come up here
+[16:57:21] [Server thread/INFO]: <Khwalin> cactus farm ahlie
+[16:57:26] [Server thread/INFO]: <ValcoNN41> no nigga
+[16:57:37] [Server thread/INFO]: <Khwalin> mob?
+[16:57:38] [Server thread/INFO]: <ValcoNN41> here
+[16:57:41] [Server thread/INFO]: <Khwalin> exp?
+[16:57:52] [Server thread/INFO]: <Khwalin> aquariam?
+[16:57:54] [Server thread/INFO]: <ValcoNN41> ye
+[16:58:00] [Server thread/INFO]: <Khwalin> oh sht
+[16:58:03] [Server thread/INFO]: <Khwalin> what for
+[16:58:10] [Server thread/INFO]: <ValcoNN41> decoration
+[16:58:17] [Server thread/INFO]: <ValcoNN41> i gotta go to nether to get a shit ton of quartz
+[16:58:22] [Server thread/INFO]: <ValcoNN41> then fly to the coral reefs
+[16:58:26] [Server thread/INFO]: <ValcoNN41> to get like 40 tropical fish
+[16:58:38] [Server thread/INFO]: <Khwalin> bro this gonna take you days
+[16:58:46] [Server thread/INFO]: <ValcoNN41> lol nah it doesnt take as long as it sounds
+[16:58:50] [Server thread/INFO]: <ValcoNN41> maybe like 2-3 days
+[16:58:52] [Server thread/INFO]: <Khwalin> you mined all this??
+[16:58:53] [Server thread/INFO]: <ValcoNN41> if i play
+[16:58:55] [Server thread/INFO]: <ValcoNN41> ye lmfao
+[16:59:23] [Server thread/INFO]: <Khwalin> nig you gonna cover all walls with quartz?
+[16:59:35] [Server thread/INFO]: <ValcoNN41> yeah im gonna cover the entire inside of my house with quartz
+[16:59:41] [Server thread/INFO]: <ValcoNN41> stairs too
+[16:59:43] [Server thread/INFO]: <Khwalin> bro
+[16:59:46] [Server thread/INFO]: <ValcoNN41> quartz is the best looking block lmao
+[16:59:48] [Server thread/INFO]: <Khwalin> you gonna regret
+[16:59:49] [Server thread/INFO]: <Khwalin> LOL
+[16:59:52] [Server thread/INFO]: <ValcoNN41> lmfao why
+[17:00:02] [Server thread/INFO]: <Khwalin> there is barely any quartz
+[17:00:08] [Server thread/INFO]: <Khwalin> around the nether portal spawn
+[17:00:10] [Server thread/INFO]: <ValcoNN41> ill go far bruh dw
+[17:00:15] [Server thread/INFO]: <ValcoNN41> i got fortune too
+[17:00:21] [Server thread/INFO]: <Khwalin> aight
+[17:00:24] [Server thread/INFO]: <ValcoNN41> quartz is ltierally everywehre
+[17:00:45] [Server thread/INFO]: <Khwalin> this room itself is prob more quartz then my entire house
+[17:01:03] [Server thread/INFO]: <ValcoNN41> bro get feather falling
+[17:01:09] [Server thread/INFO]: <ValcoNN41> on boots
+[17:01:12] [Server thread/INFO]: <Khwalin> true
+[17:01:16] [Server thread/INFO]: <ValcoNN41> i just jumped and took half a heart of dmg
+[17:01:44] [Server thread/INFO]: <ValcoNN41> yo u mind if i use one of ur villagers as a cartographer
+[17:02:05] [Server thread/INFO]: <Khwalin> nigga how you gonnna get him here?
+[17:02:08] [Server thread/INFO]: <ValcoNN41> i already foudn a monument but i think theres another nearby
+[17:02:15] [Server thread/INFO]: <Khwalin> or u gonna keep it in my house
+[17:02:23] [Server thread/INFO]: <ValcoNN41> no ujuts need to place a cartography table near the villager
+[17:02:28] [Server thread/INFO]: <ValcoNN41> and he'll change profression
+[17:02:37] [Server thread/INFO]: <Khwalin> no i mean are you keeping the villager?
+[17:02:45] [Server thread/INFO]: <ValcoNN41> well it'll be in ur house
+[17:02:45] [Server thread/INFO]: <Khwalin> or making it stay at my place still
+[17:02:55] [Server thread/INFO]: <Khwalin> i dont mind you taking him
+[17:02:55] [Server thread/INFO]: <ValcoNN41> but you wont be able to change him back to normal if i make a trade with him
+[17:03:10] [Server thread/INFO]: <Khwalin> it is fine
+[17:03:14] [Server thread/INFO]: <ValcoNN41> thats for way later tho im gonna try to finish this aquarium
+[17:03:18] [Server thread/INFO]: <Khwalin> plenty of zombie villager around
+[17:03:23] [Server thread/INFO]: <Khwalin> aight
+[17:03:28] [Server thread/INFO]: <ValcoNN41> im gonna make a design on my grid paper rn ahlie
+[17:03:36] [Server thread/INFO]: <Khwalin> we have an infinity librarian
+[17:03:40] [Server thread/INFO]: <ValcoNN41> loool
+[17:03:49] [Server thread/INFO]: <ValcoNN41> thats really god
+[17:03:50] [Server thread/INFO]: <ValcoNN41> good
+[17:04:06] [Server thread/INFO]: <ValcoNN41> mending librarian probably best tho
+[17:04:08] [Server thread/INFO]: <Khwalin> yea he also trade 1 ink sak for 1 emerald
+[17:04:14] [Server thread/INFO]: <Khwalin> i was like damn
+[17:04:26] [Server thread/INFO]: <ValcoNN41> bruh i rmr a vilager that traded 8 clay for 1e merald
+[17:04:49] [Server thread/INFO]: <Khwalin> mine traded 2 clay for 1
+[17:04:56] [Server thread/INFO]: <Khwalin> it changes constantly
+[17:05:09] [Server thread/INFO]: <ValcoNN41> lmao
+[17:05:17] [Server thread/INFO]: <ValcoNN41> if u trade more his prices decrease ahlie
+[17:05:19] [Server thread/INFO]: <ValcoNN41> but not to 2 wtf
+[17:06:54] [Server thread/INFO]: ValcoNN41 lost connection: Disconnected
+[17:06:54] [Server thread/INFO]: ValcoNN41 left the game
+[17:16:47] [User Authenticator #20/INFO]: UUID of player ValcoNN41 is 60bce50b-1456-4239-9041-e371551b6221
+[17:16:47] [Server thread/INFO]: ValcoNN41[/99.244.251.100:63567] logged in with entity id 27383 at (212.6651206654069, 81.0, 327.1445258111911)
+[17:16:47] [Server thread/INFO]: ValcoNN41 joined the game
+[17:22:11] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-2401, y=75, z=512} fk{x=-2401, y=75, z=510}
+[17:22:11] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-2401, y=75, z=512} fk{x=-2401, y=75, z=510}
+[17:22:11] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-2401, y=75, z=512} fk{x=-2401, y=75, z=510}
+[17:22:11] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-2401, y=75, z=512} fk{x=-2401, y=75, z=510}
+[17:23:44] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-2403, y=73, z=526} fk{x=-2402, y=73, z=526}
+[17:23:44] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-2403, y=73, z=526} fk{x=-2402, y=73, z=526}
+[17:23:44] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-2403, y=73, z=526} fk{x=-2402, y=73, z=526}
+[17:24:04] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-2399, y=74, z=503} fk{x=-2399, y=73, z=504}
+[17:24:04] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-2399, y=74, z=503} fk{x=-2399, y=73, z=504}
+[17:24:04] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-2399, y=74, z=503} fk{x=-2399, y=73, z=504}
+[17:24:04] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-2399, y=74, z=503} fk{x=-2399, y=73, z=504}
+[17:24:10] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-2391, y=74, z=508} fk{x=-2391, y=74, z=507}
+[17:24:10] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-2391, y=74, z=508} fk{x=-2391, y=74, z=507}
+[17:24:10] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-2391, y=74, z=508} fk{x=-2391, y=74, z=507}
+[17:24:10] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-2391, y=74, z=508} fk{x=-2391, y=74, z=507}
+[17:24:10] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-2391, y=74, z=508} fk{x=-2391, y=74, z=507}
+[17:24:10] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-2391, y=74, z=508} fk{x=-2391, y=74, z=507}
+[17:24:11] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-2391, y=74, z=508} fk{x=-2391, y=74, z=507}
+[17:29:36] [Server thread/INFO]: ValcoNN41 lost connection: Disconnected
+[17:29:36] [Server thread/INFO]: ValcoNN41 left the game
+[18:12:01] [User Authenticator #21/INFO]: UUID of player ValcoNN41 is 60bce50b-1456-4239-9041-e371551b6221
+[18:12:01] [Server thread/INFO]: ValcoNN41[/99.244.251.100:63985] logged in with entity id 46004 at (186.3807156205083, 95.0, 336.37306153337727)
+[18:12:01] [Server thread/INFO]: ValcoNN41 joined the game
+[18:13:22] [Server thread/INFO]: ValcoNN41 lost connection: Disconnected
+[18:13:22] [Server thread/INFO]: ValcoNN41 left the game
+[18:13:36] [User Authenticator #22/INFO]: UUID of player ValcoNN41 is 60bce50b-1456-4239-9041-e371551b6221
+[18:13:36] [Server thread/INFO]: ValcoNN41[/99.244.251.100:64040] logged in with entity id 46495 at (187.87328270183855, 96.0, 337.8321357774504)
+[18:13:36] [Server thread/INFO]: ValcoNN41 joined the game
+[18:17:05] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/47642, l='NightTimeRamen', x=277.30, y=64.99, z=474.70]
+[18:38:27] [Server thread/INFO]: ValcoNN41 lost connection: Disconnected
+[18:38:27] [Server thread/INFO]: ValcoNN41 left the game
+[18:49:15] [User Authenticator #23/INFO]: UUID of player ssiri is 77687848-61de-4d85-b206-788c010ac5f5
+[18:49:15] [Server thread/INFO]: ssiri[/74.220.188.75:49783] logged in with entity id 56404 at (244.2410486802174, 67.0, 482.9390287067529)
+[18:49:15] [Server thread/INFO]: ssiri joined the game
+[18:49:31] [Server thread/INFO]: ssiri lost connection: Timed out
+[18:49:31] [Server thread/INFO]: ssiri left the game
+[18:49:46] [Server thread/INFO]: Khwalin lost connection: Disconnected
+[18:49:46] [Server thread/INFO]: Khwalin left the game
+[18:49:49] [User Authenticator #24/INFO]: UUID of player ssiri is 77687848-61de-4d85-b206-788c010ac5f5
+[18:49:49] [Server thread/INFO]: ssiri[/74.220.188.75:49802] logged in with entity id 56537 at (244.2410486802174, 67.0, 482.9390287067529)
+[18:49:49] [Server thread/INFO]: ssiri joined the game
+[18:49:58] [User Authenticator #25/INFO]: UUID of player Khwalin is 48186233-910e-4621-96d9-e40b4ba73289
+[18:49:58] [Server thread/INFO]: Khwalin[/45.74.77.216:55097] logged in with entity id 56606 at (278.5447367966203, 63.0, 478.6913478596292)
+[18:49:58] [Server thread/INFO]: Khwalin joined the game
+[18:51:43] [Server thread/INFO]: ssiri has made the advancement [What a Deal!]
+[18:54:05] [Server thread/INFO]: ssiri lost connection: Timed out
+[18:54:05] [Server thread/INFO]: ssiri left the game
+[18:54:16] [User Authenticator #26/INFO]: UUID of player ssiri is 77687848-61de-4d85-b206-788c010ac5f5
+[18:54:16] [Server thread/INFO]: ssiri[/74.220.188.75:49823] logged in with entity id 57807 at (246.03358305797116, 56.0, 503.69999998807907)
+[18:54:16] [Server thread/INFO]: ssiri joined the game
+[18:54:47] [Server thread/INFO]: ssiri lost connection: Timed out
+[18:54:47] [Server thread/INFO]: ssiri left the game
+[18:54:54] [Server thread/INFO]: Khwalin lost connection: Disconnected
+[18:54:54] [Server thread/INFO]: Khwalin left the game
+[18:55:00] [User Authenticator #27/INFO]: UUID of player ssiri is 77687848-61de-4d85-b206-788c010ac5f5
+[18:55:00] [Server thread/INFO]: ssiri[/74.220.188.75:49839] logged in with entity id 57963 at (246.03358305797116, 56.0, 503.69999998807907)
+[18:55:00] [Server thread/INFO]: ssiri joined the game
+[18:56:00] [Server thread/INFO]: ssiri lost connection: Timed out
+[18:56:00] [Server thread/INFO]: ssiri left the game
+[18:56:08] [User Authenticator #28/INFO]: UUID of player ssiri is 77687848-61de-4d85-b206-788c010ac5f5
+[18:56:08] [Server thread/INFO]: ssiri[/74.220.188.75:49846] logged in with entity id 58219 at (248.02151855674217, 58.0, 504.3074334932945)
+[18:56:08] [Server thread/INFO]: ssiri joined the game
+[18:56:46] [User Authenticator #29/INFO]: UUID of player Khwalin is 48186233-910e-4621-96d9-e40b4ba73289
+[18:56:46] [Server thread/INFO]: Khwalin[/45.74.77.216:55265] logged in with entity id 58391 at (278.17350286825376, 57.0, 494.2862554525945)
+[18:56:46] [Server thread/INFO]: Khwalin joined the game
+[18:57:00] [Server thread/INFO]: ssiri lost connection: Timed out
+[18:57:00] [Server thread/INFO]: ssiri left the game
+[18:57:09] [User Authenticator #30/INFO]: UUID of player ssiri is 77687848-61de-4d85-b206-788c010ac5f5
+[18:57:09] [Server thread/INFO]: ssiri[/74.220.188.75:49852] logged in with entity id 58488 at (248.02151855674217, 58.0, 504.3074334932945)
+[18:57:09] [Server thread/INFO]: ssiri joined the game
+[18:57:31] [Server thread/INFO]: ssiri lost connection: Timed out
+[18:57:31] [Server thread/INFO]: ssiri left the game
+[18:58:09] [User Authenticator #31/INFO]: UUID of player ssiri is 77687848-61de-4d85-b206-788c010ac5f5
+[18:58:09] [Server thread/INFO]: ssiri[/74.220.188.75:49934] logged in with entity id 58717 at (248.02151855674217, 58.0, 504.3074334932945)
+[18:58:09] [Server thread/INFO]: ssiri joined the game
+[18:58:12] [Server thread/INFO]: Khwalin lost connection: Disconnected
+[18:58:12] [Server thread/INFO]: Khwalin left the game
+[18:58:41] [Server thread/INFO]: ssiri lost connection: Timed out
+[18:58:41] [Server thread/INFO]: ssiri left the game
+[18:59:59] [User Authenticator #32/INFO]: UUID of player ssiri is 77687848-61de-4d85-b206-788c010ac5f5
+[18:59:59] [Server thread/INFO]: ssiri[/74.220.188.75:49996] logged in with entity id 58879 at (248.02151855674217, 58.0, 504.3074334932945)
+[18:59:59] [Server thread/INFO]: ssiri joined the game
+[19:00:36] [User Authenticator #33/INFO]: UUID of player Khwalin is 48186233-910e-4621-96d9-e40b4ba73289
+[19:00:36] [Server thread/INFO]: Khwalin[/45.74.77.216:55429] logged in with entity id 59047 at (272.59819275005486, 65.42845318772738, 506.8147214209387)
+[19:00:36] [Server thread/INFO]: Khwalin joined the game
+[19:29:47] [Server thread/INFO]: ssiri lost connection: Timed out
+[19:29:47] [Server thread/INFO]: ssiri left the game
+[19:29:53] [User Authenticator #34/INFO]: UUID of player ssiri is 77687848-61de-4d85-b206-788c010ac5f5
+[19:29:53] [Server thread/INFO]: ssiri[/74.220.188.75:50044] logged in with entity id 66001 at (266.6357234362474, 74.5, 511.96800462329645)
+[19:29:53] [Server thread/INFO]: ssiri joined the game
+[19:30:24] [Server thread/INFO]: ssiri lost connection: Timed out
+[19:30:24] [Server thread/INFO]: ssiri left the game
+[19:30:35] [User Authenticator #35/INFO]: UUID of player ssiri is 77687848-61de-4d85-b206-788c010ac5f5
+[19:30:35] [Server thread/INFO]: ssiri[/74.220.188.75:50047] logged in with entity id 66166 at (266.6357234362474, 74.5, 511.96800462329645)
+[19:30:35] [Server thread/INFO]: ssiri joined the game
+[19:31:33] [Server thread/INFO]: ssiri lost connection: Disconnected
+[19:31:33] [Server thread/INFO]: ssiri left the game
+[19:32:00] [User Authenticator #36/INFO]: UUID of player ssiri is 77687848-61de-4d85-b206-788c010ac5f5
+[19:32:00] [Server thread/INFO]: ssiri[/74.220.188.75:50053] logged in with entity id 66511 at (266.6357234362474, 74.5, 511.96800462329645)
+[19:32:00] [Server thread/INFO]: ssiri joined the game
+[19:32:31] [Server thread/INFO]: ssiri lost connection: Timed out
+[19:32:31] [Server thread/INFO]: ssiri left the game
+[19:41:13] [User Authenticator #37/INFO]: UUID of player ssiri is 77687848-61de-4d85-b206-788c010ac5f5
+[19:41:13] [Server thread/INFO]: ssiri[/74.220.188.75:50172] logged in with entity id 68604 at (266.6357234362474, 74.5, 511.96800462329645)
+[19:41:13] [Server thread/INFO]: ssiri joined the game
+[19:41:44] [Server thread/INFO]: ssiri lost connection: Disconnected
+[19:41:44] [Server thread/INFO]: ssiri left the game
+[19:41:51] [User Authenticator #38/INFO]: UUID of player ssiri is 77687848-61de-4d85-b206-788c010ac5f5
+[19:41:51] [Server thread/INFO]: ssiri[/74.220.188.75:50174] logged in with entity id 68726 at (266.6357234362474, 74.5, 511.96800462329645)
+[19:41:51] [Server thread/INFO]: ssiri joined the game
+[19:42:22] [Server thread/INFO]: ssiri lost connection: Disconnected
+[19:42:22] [Server thread/INFO]: ssiri left the game
+[19:42:30] [User Authenticator #39/INFO]: UUID of player ssiri is 77687848-61de-4d85-b206-788c010ac5f5
+[19:42:30] [Server thread/INFO]: ssiri[/74.220.188.75:50177] logged in with entity id 68862 at (266.6357234362474, 74.5, 511.96800462329645)
+[19:42:30] [Server thread/INFO]: ssiri joined the game
+[19:43:01] [Server thread/INFO]: ssiri lost connection: Disconnected
+[19:43:01] [Server thread/INFO]: ssiri left the game
+[19:43:24] [User Authenticator #40/INFO]: UUID of player ssiri is 77687848-61de-4d85-b206-788c010ac5f5
+[19:43:25] [Server thread/INFO]: ssiri[/74.220.188.75:50181] logged in with entity id 69082 at (266.6357234362474, 74.5, 511.96800462329645)
+[19:43:25] [Server thread/INFO]: ssiri joined the game
+[19:44:23] [Server thread/INFO]: ssiri lost connection: Timed out
+[19:44:23] [Server thread/INFO]: ssiri left the game
+[19:44:52] [User Authenticator #41/INFO]: UUID of player ValcoNN41 is 60bce50b-1456-4239-9041-e371551b6221
+[19:44:53] [Server thread/INFO]: ValcoNN41[/99.244.251.100:64947] logged in with entity id 69412 at (208.3530329522648, 95.0, 317.81050361740216)
+[19:44:53] [Server thread/INFO]: ValcoNN41 joined the game
+[20:05:03] [Server thread/INFO]: <ValcoNN41> wyd rn
+[20:06:29] [Server thread/INFO]: <ValcoNN41> pssy
+[20:06:49] [Server thread/INFO]: <ValcoNN41> im finna fold u at ur house if u dont answer
+[20:06:59] [Server thread/INFO]: ValcoNN41 lost connection: Disconnected
+[20:06:59] [Server thread/INFO]: ValcoNN41 left the game
+[20:07:50] [User Authenticator #42/INFO]: UUID of player ValcoNN41 is 60bce50b-1456-4239-9041-e371551b6221
+[20:07:50] [Server thread/INFO]: ValcoNN41[/99.244.251.100:64989] logged in with entity id 76482 at (209.53471402277214, 102.0, 334.69999998807907)
+[20:07:50] [Server thread/INFO]: ValcoNN41 joined the game
+[20:12:31] [Server thread/INFO]: <Khwalin> yo david
+[20:12:35] [Server thread/INFO]: <Khwalin> mb i was afk
+[20:12:56] [Server thread/INFO]: <Khwalin> do you mind the night time since you ae building your aquariam anyways?
+[20:13:06] [Server thread/INFO]: <ValcoNN41> im in nether
+[20:13:10] [Server thread/INFO]: <Khwalin> i am just afk on server
+[20:13:18] [Server thread/INFO]: <Khwalin> be back in 20
+[20:13:25] [Server thread/INFO]: <ValcoNN41> aigh
+[20:17:09] [Server thread/INFO]: ValcoNN41 lost connection: Disconnected
+[20:17:09] [Server thread/INFO]: ValcoNN41 left the game
+[20:17:35] [User Authenticator #43/INFO]: UUID of player ValcoNN41 is 60bce50b-1456-4239-9041-e371551b6221
+[20:17:35] [Server thread/INFO]: ValcoNN41[/99.244.251.100:65073] logged in with entity id 79955 at (262.2085785379539, 45.0, -33.94248708273286)
+[20:17:35] [Server thread/INFO]: ValcoNN41 joined the game
+[20:19:15] [Server thread/INFO]: ValcoNN41 lost connection: Disconnected
+[20:19:15] [Server thread/INFO]: ValcoNN41 left the game
+[20:19:19] [User Authenticator #44/INFO]: UUID of player ValcoNN41 is 60bce50b-1456-4239-9041-e371551b6221
+[20:19:19] [Server thread/INFO]: ValcoNN41[/99.244.251.100:65091] logged in with entity id 80623 at (221.96525201687365, 37.43469219680637, -15.6108482500333)
+[20:19:19] [Server thread/INFO]: ValcoNN41 joined the game
+[20:23:47] [User Authenticator #45/INFO]: UUID of player ssiri is 77687848-61de-4d85-b206-788c010ac5f5
+[20:23:47] [Server thread/INFO]: ssiri[/74.220.188.75:50332] logged in with entity id 82292 at (266.6357234362474, 74.5, 511.96800462329645)
+[20:23:47] [Server thread/INFO]: ssiri joined the game
+[20:32:22] [Server thread/INFO]: ValcoNN41 lost connection: Disconnected
+[20:32:22] [Server thread/INFO]: ValcoNN41 left the game
+[20:32:31] [User Authenticator #46/INFO]: UUID of player ValcoNN41 is 60bce50b-1456-4239-9041-e371551b6221
+[20:32:31] [Server thread/INFO]: ValcoNN41[/99.244.251.100:65114] logged in with entity id 86020 at (195.15496335686154, 96.0, 323.26168822898285)
+[20:32:31] [Server thread/INFO]: ValcoNN41 joined the game
+[20:43:55] [Server thread/INFO]: Khwalin lost connection: Disconnected
+[20:43:55] [Server thread/INFO]: Khwalin left the game
+[20:43:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@1d9cb90e[id=<null>,name=Khwalin,properties={},legacy=false] (/45.74.77.216:51699) lost connection: Disconnected
+[20:43:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@34bb2345[id=<null>,name=Khwalin,properties={},legacy=false] (/45.74.77.216:51701) lost connection: Disconnected
+[20:44:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@764f57b0[id=<null>,name=Khwalin,properties={},legacy=false] (/45.74.77.216:51706) lost connection: Disconnected
+[20:44:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@43b08054[id=<null>,name=Khwalin,properties={},legacy=false] (/45.74.77.216:51715) lost connection: Disconnected
+[20:44:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@41fa97ab[id=<null>,name=Khwalin,properties={},legacy=false] (/45.74.77.216:51723) lost connection: Disconnected
+[20:44:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@6d6354fd[id=<null>,name=Khwalin,properties={},legacy=false] (/45.74.77.216:51803) lost connection: Disconnected
+[20:45:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@25464fec[id=<null>,name=Khwalin,properties={},legacy=false] (/45.74.77.216:51809) lost connection: Disconnected
+[20:45:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@124c81fb[id=<null>,name=Khwalin,properties={},legacy=false] (/45.74.77.216:51815) lost connection: Disconnected
+[20:45:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@fea7d20[id=<null>,name=Khwalin,properties={},legacy=false] (/45.74.77.216:51817) lost connection: Disconnected
+[20:45:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@2e9f1474[id=<null>,name=Khwalin,properties={},legacy=false] (/45.74.77.216:51819) lost connection: Disconnected
+[20:45:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@17187cb3[id=<null>,name=Khwalin,properties={},legacy=false] (/45.74.77.216:51845) lost connection: Disconnected
+[20:45:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@51401ebd[id=<null>,name=Khwalin,properties={},legacy=false] (/45.74.77.216:51847) lost connection: Disconnected
+[20:45:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@26b14f71[id=<null>,name=Khwalin,properties={},legacy=false] (/45.74.77.216:51853) lost connection: Disconnected
+[20:46:19] [User Authenticator #47/INFO]: UUID of player Khwalin is 48186233-910e-4621-96d9-e40b4ba73289
+[20:46:19] [Server thread/INFO]: Khwalin[/45.74.77.216:51935] logged in with entity id 90611 at (265.8397371065636, 74.0625, 499.83590622546694)
+[20:46:19] [Server thread/INFO]: Khwalin joined the game
+[20:46:23] [Server thread/INFO]: Khwalin was shot by ssiri
+[20:46:33] [Server thread/INFO]: <ValcoNN41> nyeah eh'
+[20:47:38] [Server thread/INFO]: <ValcoNN41> wtf
+[20:47:42] [Server thread/INFO]: <ValcoNN41> why is there a fox
+[20:47:44] [Server thread/INFO]: <ValcoNN41> here
+[20:48:02] [Server thread/INFO]: <ValcoNN41> how do i capture it
+[20:48:06] [Server thread/INFO]: <Khwalin> lead
+[20:48:13] [Server thread/INFO]: <Khwalin> cant tame it
+[20:48:48] [Server thread/INFO]: <ValcoNN41> check out my place lmao
+[20:48:59] [Server thread/INFO]: <Khwalin> we did
+[20:49:07] [Server thread/INFO]: <ValcoNN41> check it again
+[20:50:01] [Server thread/INFO]: <ValcoNN41> bruh it was so crazy
+[20:50:07] [Server thread/INFO]: <ValcoNN41> there was ab aby zombie riding a chicken
+[20:50:12] [Server thread/INFO]: <ValcoNN41> and the fox comes out of nowhere and merks it
+[20:50:22] [Server thread/INFO]: <Khwalin> yea my chicken farm is gone
+[20:50:32] [Server thread/INFO]: <Khwalin> because of the fox
+[20:51:24] [Server thread/INFO]: <ValcoNN41> briuh that sht disappeared on me
+[20:53:44] [Server thread/INFO]: <ValcoNN41> BRUHHH I FOUND IT
+[20:53:49] [Server thread/INFO]: <Khwalin> ?
+[20:54:06] [Server thread/INFO]: <ValcoNN41> wait wtf
+[20:54:08] [Server thread/INFO]: <ValcoNN41> the lead broke
+[20:55:19] [Server thread/INFO]: <ValcoNN41> bro
+[20:55:25] [Server thread/INFO]: <ValcoNN41> the lead broke when it was on the lead
+[20:55:43] [Server thread/INFO]: <Khwalin> you walked too fast
+[20:56:56] [Server thread/INFO]: <ValcoNN41> yo
+[20:56:58] [Server thread/INFO]: <ValcoNN41> run to my house
+[20:58:14] [Server thread/INFO]: <Khwalin> you need 2 foxes
+[20:58:17] [Server thread/INFO]: <Khwalin> breed them
+[20:58:20] [Server thread/INFO]: <Khwalin> get more foxes
+[20:59:30] [Server thread/INFO]: <ValcoNN41> where u at
+[20:59:40] [Server thread/INFO]: <Khwalin> help
+[20:59:42] [Server thread/INFO]: <Khwalin> i am stuck
+[20:59:47] [Server thread/INFO]: <ValcoNN41> where
+[20:59:47] [Server thread/INFO]: <Khwalin> in your aquariam
+[21:00:11] [Server thread/INFO]: <ValcoNN41> NIGGA
+[21:00:18] [Server thread/INFO]: <Khwalin> give me some stone
+[21:00:24] [Server thread/INFO]: <ValcoNN41> jump quick
+[21:00:26] [Server thread/INFO]: <ValcoNN41> ready
+[21:00:40] [Server thread/INFO]: <ValcoNN41> u dumbfcuk
+[21:00:54] [Server thread/INFO]: <Khwalin> lol
+[21:00:59] [Server thread/INFO]: <ValcoNN41> it tried escaping
+[21:01:03] [Server thread/INFO]: <Khwalin> yea
+[21:01:08] [Server thread/INFO]: <Khwalin> bro it can jump super high
+[21:01:12] [Server thread/INFO]: <Khwalin> when they see chicken
+[21:01:15] [Server thread/INFO]: <ValcoNN41> yeah ik
+[21:01:17] [Server thread/INFO]: <ValcoNN41> i had two leds
+[21:01:27] [Server thread/INFO]: <ValcoNN41> and it broke thru one of them because there was a random chicken running around
+[21:01:32] [Server thread/INFO]: <Khwalin> my 20 chickens all got merked
+[21:01:59] [Server thread/INFO]: <ValcoNN41> whered ur armor go
+[21:02:09] [Server thread/INFO]: Khwalin burned to death
+[21:02:12] [Server thread/INFO]: <Khwalin> holy
+[21:03:27] [Server thread/INFO]: <ValcoNN41> what else u have
+[21:03:32] [Server thread/INFO]: <Khwalin> where ma potatoes at
+[21:03:38] [Server thread/INFO]: <Khwalin> thanks
+[21:03:42] [Server thread/INFO]: <Khwalin> wait
+[21:03:45] [Server thread/INFO]: <Khwalin> my axe
+[21:03:55] [Server thread/INFO]: <ValcoNN41> is it the one with fortune
+[21:03:58] [Server thread/INFO]: <Khwalin> yea
+[21:04:19] [Server thread/INFO]: <Khwalin> i take so much dmg
+[21:04:21] [Server thread/INFO]: <Khwalin> with no armor
+[21:04:22] [Server thread/INFO]: <ValcoNN41> do ut hink u can make it back alive
+[21:04:27] [Server thread/INFO]: <Khwalin> yea lmao
+[21:04:33] [Server thread/WARN]: Fetching packet for removed entity akw['Experience Orb'/96719, l='NightTimeRamen', x=266.45, y=63.00, z=493.60]
+[21:04:34] [Server thread/WARN]: Fetching packet for removed entity akw['Experience Orb'/96491, l='NightTimeRamen', x=268.37, y=65.71, z=494.47]
+[21:04:35] [Server thread/INFO]: <ValcoNN41> ur girl gave u the deafazz ahlie
+[21:04:40] [Server thread/INFO]: <Khwalin> lmaoo
+[21:04:45] [Server thread/INFO]: <Khwalin> she thought i was a zombie
+[21:04:55] [Server thread/INFO]: <ValcoNN41> bruh u spanwed in and she sniped ur ass lmao
+[21:05:36] [Server thread/INFO]: <ValcoNN41> u got any gunpowder?
+[21:05:53] [Server thread/INFO]: <Khwalin> i have like 3
+[21:06:09] [Server thread/INFO]: Khwalin burned to death
+[21:06:13] [Server thread/INFO]: <ValcoNN41> LMAO
+[21:06:25] [Server thread/INFO]: <Khwalin> fire deadly
+[21:06:26] [Server thread/INFO]: <ValcoNN41> u good?
+[21:10:08] [Server thread/INFO]: ValcoNN41 lost connection: Disconnected
+[21:10:08] [Server thread/INFO]: ValcoNN41 left the game
+[21:10:48] [Server thread/WARN]: Khwalin moved wrongly!
+[21:11:00] [Server thread/INFO]: Khwalin was blown up by Creeper
+[21:14:06] [Server thread/INFO]: Khwalin was shot by Skeleton
+[22:06:06] [Server thread/INFO]: Khwalin lost connection: Disconnected
+[22:06:06] [Server thread/INFO]: Khwalin left the game
+[22:06:08] [User Authenticator #48/INFO]: UUID of player Khwalin is 48186233-910e-4621-96d9-e40b4ba73289
+[22:06:08] [Server thread/INFO]: Khwalin[/45.74.77.216:53323] logged in with entity id 117593 at (261.4358940363513, 66.0, 502.4528692205875)
+[22:06:08] [Server thread/INFO]: Khwalin joined the game
+[22:16:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[22:19:22] [Server Watchdog/FATAL]: A single server tick took 146.93 seconds (should be max 0.05)
+[22:19:22] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[22:19:22] [Server thread/INFO]: ssiri lost connection: Disconnected
+[22:19:22] [Server thread/INFO]: ssiri left the game
+[22:19:22] [Server thread/INFO]: Khwalin lost connection: Disconnected
+[22:19:22] [Server thread/INFO]: Khwalin left the game
+[22:19:22] [Server Watchdog/ERROR]: This crash report has been saved to: /home/varun/Desktop/mcserver/./crash-reports/crash-2020-04-22_22.19.22-server.txt
+[22:19:22] [Server thread/INFO]: Stopping server
+[22:19:22] [Server thread/INFO]: Saving players
+[22:19:22] [Server thread/INFO]: Saving worlds
+[22:19:22] [Server thread/INFO]: Saving chunks for level 'NightTimeRamen'/minecraft:overworld
+[22:19:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (NightTimeRamen): All chunks are saved
+[22:19:25] [Server thread/INFO]: Saving chunks for level 'NightTimeRamen'/minecraft:the_nether
+[22:19:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:19:25] [Server thread/INFO]: Saving chunks for level 'NightTimeRamen'/minecraft:the_end
+[22:19:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:19:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (NightTimeRamen): All chunks are saved
+[22:19:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:19:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

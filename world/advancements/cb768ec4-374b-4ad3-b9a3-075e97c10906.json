@@ -1,0 +1,30 @@
+{
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2020-03-24 10:40:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2020-03-24 10:40:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2020-03-24 10:40:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mountains": "2020-03-24 10:01:15 -0400",
+      "minecraft:taiga": "2020-03-24 09:49:01 -0400",
+      "minecraft:birch_forest": "2020-03-24 10:00:59 -0400",
+      "minecraft:giant_tree_taiga_hills": "2020-03-24 10:01:25 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 2230
+}

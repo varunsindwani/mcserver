@@ -1,0 +1,58 @@
+---- Minecraft Crash Report ----
+// I just don't know what went wrong :(
+
+Time: 2020-04-20, 12:33 a.m.
+Description: Exception in server tick loop
+
+java.lang.OutOfMemoryError: Java heap space
+	at it.unimi.dsi.fastutil.longs.Long2ObjectLinkedOpenHashMap.clone(Long2ObjectLinkedOpenHashMap.java:1805)
+	at wp.b(SourceFile:457)
+	at xb.n(SourceFile:283)
+	at xb.c(SourceFile:221)
+	at xb.a(SourceFile:138)
+	at bjw.a(SourceFile:180)
+	at bjz.a(SourceFile:108)
+	at cfl.a(SourceFile:137)
+	at caa.a(SourceFile:107)
+	at xd.a(SourceFile:1187)
+	at ctd.a(SourceFile:68)
+	at cth.b(SourceFile:32)
+	at cth.apply(SourceFile:21)
+	at cti.a(SourceFile:16)
+	at cti$$Lambda$2911/0x0000000840a60440.accept(Unknown Source)
+	at csn.a(SourceFile:28)
+	at csr$1.a(SourceFile:60)
+	at crz.b(SourceFile:71)
+	at crz.a(SourceFile:95)
+	at csa.a(SourceFile:73)
+	at csa.b(SourceFile:82)
+	at csa.a(SourceFile:87)
+	at csa.a(SourceFile:106)
+	at bxf.d(SourceFile:75)
+	at bxf.createMenu(SourceFile:153)
+	at xe.a(SourceFile:855)
+	at bpw.a(SourceFile:204)
+	at byj.a(SourceFile:283)
+	at xf.a(SourceFile:322)
+	at xv.a(SourceFile:935)
+	at rb.a(SourceFile:36)
+	at rb.a(SourceFile:10)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.15.2
+	Minecraft Version ID: 1.15.2
+	Operating System: Linux (amd64) version 5.3.0-46-generic
+	Java Version: 11.0.6, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 2262416 bytes (2 MB) / 1073741824 bytes (1024 MB) up to 1073741824 bytes (1024 MB)
+	CPUs: 4
+	JVM Flags: 2 total; -Xmx1024M -Xms1024M
+	Player Count: 3 / 20; [xe['Khwalin'/623, l='NightTimeRamen', x=270.23, y=74.50, z=512.92], xe['ssiri'/1606, l='NightTimeRamen', x=266.18, y=74.50, z=512.91], xe['ValcoNN41'/5525, l='NightTimeRamen', x=2397.84, y=56.00, z=-128.25]]
+	Data Packs: vanilla
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)
